@@ -1,5 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
+#include "tic_tac_toe.h"
 
-int main(){
+int main(void)
+{
+    startTicTacToe();
     return 0;
 }
